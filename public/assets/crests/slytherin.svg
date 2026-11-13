@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" fill="none">
+  <!-- Shield Outline -->
+  <path d="M50 5 L90 20 V65 C90 92 50 115 50 115 C50 115 10 92 10 65 V20 Z" fill="#1A472A" stroke="#AAAAAA" stroke-width="4"/>
+  <!-- Silver Inner Trim -->
+  <path d="M50 12 L83 24 V63 C83 86 50 106 50 106 C50 106 17 86 17 63 V24 Z" stroke="#5D5D5D" stroke-width="1.5" fill="#0D2616"/>
+  <!-- Slytherin Serpent Silhouette -->
+  <path d="M58 28 C62 28 66 31 66 35 C66 39 63 42 59 44 C53 47 44 48 41 53 C38 58 41 64 47 65 C55 67 63 65 67 71 C71 77 68 85 62 89 C55 93 45 92 38 88 C40 85 45 86 50 86 C56 86 60 82 58 77 C56 73 50 72 43 70 C34 67 31 59 34 50 C37 42 45 39 52 37 C56 35 58 33 58 31 C58 29 55 29 53 30 C50 31 48 34 46 36 C45 33 46 29 50 28 C53 27 56 28 58 28 Z" fill="#AAAAAA"/>
+  <!-- Eye Accent -->
+  <circle cx="62" cy="33" r="1.5" fill="#1A472A"/>
+</svg>

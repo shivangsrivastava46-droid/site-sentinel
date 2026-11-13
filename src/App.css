@@ -1,0 +1,16 @@
+/* Hogwarts Sentinel Global Custom CSS & Typography Utilities */
+.font-cinzel {
+  font-family: 'Cinzel', Georgia, serif;
+}
+.font-decorative {
+  font-family: 'Cinzel Decorative', Georgia, serif;
+}
+.font-gothic {
+  font-family: 'MedievalSharp', cursive, serif;
+}
+.font-parchment {
+  font-family: 'Crimson Pro', Georgia, serif;
+}
+.font-code {
+  font-family: 'JetBrains Mono', monospace;
+}

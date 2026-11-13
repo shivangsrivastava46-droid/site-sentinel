@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" fill="none">
+  <!-- Shield Outline -->
+  <path d="M50 5 L90 20 V65 C90 92 50 115 50 115 C50 115 10 92 10 65 V20 Z" fill="#740001" stroke="#D3A625" stroke-width="4"/>
+  <!-- Gold Inner Trim -->
+  <path d="M50 12 L83 24 V63 C83 86 50 106 50 106 C50 106 17 86 17 63 V24 Z" stroke="#EEBA30" stroke-width="1.5" fill="#4B0000"/>
+  <!-- Gryffindor Lion Silhouette -->
+  <path d="M50 32 C53 32 55 30 57 28 C59 30 62 31 64 29 C63 34 60 36 62 40 C65 38 67 35 69 32 C68 39 63 43 61 46 C64 47 68 46 72 44 C69 49 65 52 61 54 C63 58 66 61 70 63 C66 65 62 65 59 63 C58 68 62 74 66 79 C61 78 57 74 55 69 C53 74 51 81 54 87 C49 84 47 78 47 72 C45 77 41 84 36 88 C38 82 40 76 41 70 C38 72 34 74 30 75 C33 70 37 67 40 63 C36 62 32 61 28 58 C32 56 37 56 41 57 C39 52 35 48 31 45 C35 46 39 48 42 51 C41 45 38 40 33 36 C37 38 41 41 43 45 C44 38 47 32 50 32 Z" fill="#EEBA30"/>
+  <!-- Crown / Star Accent -->
+  <circle cx="50" cy="22" r="3" fill="#EEBA30"/>
+</svg>
