@@ -3,6 +3,7 @@ import { Navbar } from './components/navigation/Navbar';
 import { LandingHero } from './components/landing/LandingHero';
 import { SpellScannerView } from './components/scanner/SpellScannerView';
 import { ThreatFindingsView } from './components/findings/ThreatFindingsView';
+import { MusicButton } from './components/audio/MusicButton';
 import { initialRequests } from './services/mockData';
 import type { HttpRequestItem } from './types/security';
 
@@ -23,7 +24,10 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#060812] text-[#f7eed7] flex flex-col font-sans select-none">
+    <div className="min-h-screen bg-[#060812] text-[#f7eed7] flex flex-col font-sans select-none relative">
+      {/* Persistent Floating Music Button (Top-Right) */}
+      <MusicButton />
+
       {/* Minimal 3-link Navigation */}
       <Navbar currentView={currentView} onNavigate={setCurrentView} />
 

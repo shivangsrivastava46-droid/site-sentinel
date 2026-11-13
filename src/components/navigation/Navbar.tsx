@@ -25,7 +25,7 @@ export const Navbar: FC<NavbarProps> = ({ currentView, onNavigate }) => {
       </button>
 
       {/* Navigation: Only 3 pure links */}
-      <div className="flex items-center gap-6 sm:gap-8 font-cinzel text-xs sm:text-sm font-semibold tracking-wider">
+      <div className="flex items-center gap-4 sm:gap-8 font-cinzel text-xs sm:text-sm font-semibold tracking-wider mr-12 sm:mr-14">
         <button
           onClick={() => onNavigate('landing')}
           className={`transition-all duration-200 cursor-pointer pb-1 border-b-2 ${
