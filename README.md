@@ -43,4 +43,4 @@ cd hogwarts-sentinel
 npm run dev
 ```
 
-Visit [http://localhost:5173](http://localhost:5173).
+Visit [https://site-sentinel-s6dp.vercel.app/](https://site-sentinel-s6dp.vercel.app/).
